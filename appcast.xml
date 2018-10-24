@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Midnight - Dark Theme Sketch Plugin</title>
+    <link>https://www.midnightsketch.com</link>
+    <description>Dark theme for Sketch UI</description>
+    <language>en</language>
+      <item>
+        <title>Version 1.0.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fixed memory usage and performance issues</li>
+              <li>Fixed pixellated layer list icons</li>
+              <li>Fixed issue with toolbar not being styled</li>
+              <li>Fixed styling for user input window</li>
+              <li>Added accent color for Symbols and Styled layers in layer list</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://midnightsketch.com/Midnight-sketchplugin.zip" sparkle:version="1.0.2" />
+      </item>
+      <item>
+        <title>Version 1.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added a new theme called <strong>Night Owl</strong>. This is a darker theme with cooler bluish tones compared to the warmer and lighter <em>Designer</em> theme.</li>
+              <li>Added custom toolbar icons for each theme</li>
+              <li>Added dark styles for three popular Sketch plugins — Craft Panels, Marvel, and AnimaApp AutoLayout</li>
+              <li>Added new features - Indent Guides and Color Tags for layers</li>
+              <li>Dozens of performance improvements and bug fixes</li>
+              <li>Tons of subtle visual enhancements</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://midnightsketch.com/Midnight-sketchplugin.zip" sparkle:version="1.1" />
+      </item>
+      <item>
+        <title>Version 1.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added a new theme called <strong>Lark</strong>. This is an ultra-light theme you can use when you take your laptop to the park or the beach!</li>
+              <li>Added another toolbar icons set to match the new theme</li>
+              <li>Added a Collapse All Groups button added to the layers list for easy access</li>
+              <li>High-contrast vector editing handles that are easier to identify on light and dark backgrounds</li>
+              <li>Many performance improvements and bug fixes</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://midnightsketch.com/Midnight-sketchplugin.zip" sparkle:version="1.2" />
+      </item>
+      <item>
+        <title>Version 1.2.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added support for Sketch 49 and prototyping</li>
+              <li>Minor performance improvements and bug fixes</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://midnightsketch.com/Midnight-sketchplugin.zip" sparkle:version="1.2.1" />
+      </item>
+      <item>
+        <title>Version 1.2.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fixed unexpected crashes</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://midnightsketch.com/Midnight-sketchplugin.zip" sparkle:version="1.2.2" />
+      </item>
+      <item>
+        <title>Version 1.2.3</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added support for Sketch 50</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://midnightsketch.com/Midnight-sketchplugin.zip" sparkle:version="1.2.3" />
+      </item>
+  </channel>
+</rss>
