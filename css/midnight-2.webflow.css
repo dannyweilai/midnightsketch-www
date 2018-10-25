@@ -659,6 +659,9 @@ h1 {
   .image-9 {
     max-width: 150%;
   }
+  .div-block-10 {
+    overflow: scroll;
+  }
 }
 
 @media (max-width: 479px) {
@@ -756,9 +759,6 @@ h1 {
   }
   .image-9 {
     max-width: 200%;
-  }
-  .div-block-10 {
-    overflow: scroll;
   }
   .button-2.download-button {
     min-height: 44px;
