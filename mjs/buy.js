@@ -32,4 +32,3 @@ var downloadClickHandler = function(e) {
 };
 
 document.getElementById('download').addEventListener('click', downloadClickHandler);
-document.getElementById('downloadFooter').addEventListener('click', downloadClickHandler);

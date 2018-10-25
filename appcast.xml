@@ -85,5 +85,16 @@
         </description>
         <enclosure url="https://midnightsketch.com/Midnight-sketchplugin.zip" sparkle:version="1.2.3" />
       </item>
+      <item>
+        <title>Version 2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added support for Sketch 52</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/dannyweilai/midnightsketch/archive/master.zip" sparkle:version="2.0" />
+      </item>
   </channel>
 </rss>
