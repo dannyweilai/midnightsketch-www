@@ -23,7 +23,7 @@ e=(!e||e.length===0?"$default_instance":e).toLowerCase()
 amplitude.getInstance().init("ffeb408445816be2c8f017221f8907ad");
 
 
-var downloadURL = 'https://midnightsketch.com/Midnight-sketchplugin.zip';
+var downloadURL = 'https://github.com/dannyweilai/midnightsketch/archive/master.zip';
 
 var downloadClickHandler = function(e) {
   amplitude.getInstance().logEvent('downloadFromWebsite');
