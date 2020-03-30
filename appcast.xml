@@ -118,5 +118,16 @@
         </description>
         <enclosure url="https://github.com/dannyweilai/midnightsketch/archive/master.zip" sparkle:version="2.2" />
       </item>
+    <item>
+        <title>Version 2.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added support for Sketch 63</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/dannyweilai/midnightsketch/archive/master.zip" sparkle:version="2.3" />
+      </item>
   </channel>
 </rss>
