@@ -71,9 +71,9 @@ h1 {
 }
 
 .button.download-button {
-  min-height: 42px;
+  min-height: 62px;
   min-width: 180px;
-  padding-top: 11px;
+  padding-top: 21px;
   background-color: #00a6ff;
   box-shadow: 0 14px 32px -12px rgba(0, 153, 255, .7);
   font-family: Lato, sans-serif;
