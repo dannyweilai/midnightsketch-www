@@ -127,7 +127,7 @@
             </ul>
           ]]>
         </description>
-        <enclosure url="https://github.com/dannyweilai/midnightsketch/archive/master.zip" sparkle:version="2.3" />
+        <enclosure url="https://midnightsketch.com/Midnight-sketchplugin.zip" sparkle:version="2.3" />
       </item>
   </channel>
 </rss>
