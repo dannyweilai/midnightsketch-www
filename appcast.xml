@@ -129,5 +129,16 @@
         </description>
         <enclosure url="https://midnightsketch.com/Midnight-sketchplugin.zip" sparkle:version="2.3" />
       </item>
+    <item>
+        <title>Version 2.3.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added support for Sketch 64</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://midnightsketch.com/Midnight-sketchplugin.zip" sparkle:version="2.3.1" />
+      </item>
   </channel>
 </rss>
